@@ -38,12 +38,7 @@ pip install -r requirements.txt
 4. Runserver
 
 ```shell
-python manage.py runserver
-```
-Alternatively you can specify the port:
-
-```shell
-python manage.py runserver <port>
+python manage.py runserver 7000
 ```
  
 ## How to test the API
