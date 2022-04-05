@@ -1,6 +1,6 @@
 # Vetster Schedule
 
-This Django app checks for availability of a vet in the calendar with 1 hour interval. The data is stored in a json file under ```\assets\data\blocks.json```
+This very simple Django app checks for availability of a vet in the calendar with 1 hour interval. The data is stored in a json file under ```\assets\data\blocks.json```
 
 
 ## How to run the app (django)  
