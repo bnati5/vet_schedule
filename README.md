@@ -14,8 +14,14 @@ cd vet_schedule/
 
 2. Create a virtual environment
 
-If you are using python3 please replace python with python3 in the below bash command 
+If you are using python3 please replace python with python3 in the below bash command
 
+** For Windows **
+```shell
+python -m venv env
+source env/scripts/activate
+```
+** For MAC **
 ```shell
 python -m venv env
 source env/bin/activate
