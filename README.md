@@ -3,10 +3,16 @@
 This very simple Django app checks for availability of a vet in the calendar with 1 hour interval. The data is stored in a json file under ```\assets\data\blocks.json```
 
 
-## How to run the app (django) after cloning the repo  
+## How to run the app (django)  
+
+1. Clone repo
+```shell
+git clone https://github.com/bnati5/vet_schedule.git
+cd vet_schedule/
+```
 
 
-1. Create a virtual environment.
+2. Create a virtual environment
 
 If you are using python3 please replace python with python3 in the below bash command 
 
@@ -15,7 +21,7 @@ python -m venv env
 source env/bin/activate
 ```
 
-2. Install requirements.txt  
+3. Install requirements.txt  
 
 If you are using pip3 please replace pip with pip3 in the below bash command 
 
@@ -23,7 +29,7 @@ If you are using pip3 please replace pip with pip3 in the below bash command
 pip install -r requirements.txt
 ```
 
-3. Runserver
+4. Runserver
 
 ```shell
 python manage.py runserver
