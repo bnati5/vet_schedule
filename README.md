@@ -3,7 +3,7 @@
 This very simple Django app checks for availability of a vet in the calendar with 1 hour interval. The data is stored in a json file under ```\assets\data\blocks.json```
 
 
-## How to run the app (django)  
+## How to run the app (django) after cloning the repo  
 
 
 1. Create a virtual environment.
