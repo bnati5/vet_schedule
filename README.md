@@ -14,7 +14,7 @@ cd vet_schedule/
 
 2. Create a virtual environment
 
-If you are using python3 please replace python with python3 in the below bash command
+If you are using python3 please replace **python** with **python3** in the below bash command
 
 ** For Windows **
 ```shell
@@ -29,7 +29,7 @@ source env/bin/activate
 
 3. Install requirements.txt  
 
-If you are using pip3 please replace pip with pip3 in the below bash command 
+If you are using **pip3** please replace **pip** with **pip3** in the below bash command 
 
 ```shell
 pip install -r requirements.txt
